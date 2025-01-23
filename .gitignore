@@ -1,0 +1,12 @@
+# Next.js
+#.next/
+#node_modules/
+#
+## Django
+#__pycache__/
+#*.pyc
+#*.sqlite3
+#venv/
+#.env
+
+structure-project.txt
